@@ -1,0 +1,13 @@
+{
+
+"name": "Spring Day (Exposé Data)",
+
+"dataColors": [ "#5cbae5", "#b6d957", "#fac364", "#9ea8ad", "#1b7eac", "#759422", "#dd8e07", "#69767c", "#abdbf2", "#d7eaa2", "#fde5bd", "#d5dadc" ],
+
+"background":"#FFFFFF",
+
+"foreground": "#1b7eac",
+
+"tableAccent":"#5cbae5"
+
+}
